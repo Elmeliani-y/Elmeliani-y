@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elmeliani-y&label=Profile%20views&color=0e75b6&style=flat" alt="elmeliani-y" /> </p>
 
-<p align="left"> <a href = "https://youssef-el-meliani.netlify.app/"></a> </p>
 
 - 🔭 I’m currently studying in **ista ntic syba**
 
@@ -11,6 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://youssef-el-meliani.netlify.app/" >portfolio</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
