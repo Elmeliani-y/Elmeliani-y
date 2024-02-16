@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying in **ista ntic syba**
 
-- 🌱 I’m currently learning **the react , laravel , c , c++ , c# , python , javascript**
+- 🌱 I’m currently learning ** react , laravel **
 
 <h3 align="left">Connect with me:</h3>
   <a href="https://youssef-el-meliani.netlify.app/" >portfolio</a>
