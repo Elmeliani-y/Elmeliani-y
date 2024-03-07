@@ -1,4 +1,3 @@
-<img height="400px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Elmeliani-y" />
 <div align="center">
   <<img height="400px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Elmeliani-y" />
 </div>
